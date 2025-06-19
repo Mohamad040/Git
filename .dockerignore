@@ -1,0 +1,9 @@
+node_modules
+my-react-app/node_modules
+server/node_modules
+*.log
+*.test.js
+dist
+.dockerignore
+Dockerfile
+.env

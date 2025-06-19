@@ -1,0 +1,39 @@
+{"level":"error","message":"connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2025-04-02 04:33:40 PM +0300"}
+{"level":"error","message":"connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2025-04-02 04:38:55 PM +0300"}
+{"level":"error","message":"connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2025-04-02 08:38:20 PM +0300"}
+{"level":"error","message":"connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2025-04-02 08:38:22 PM +0300"}
+{"level":"error","message":"connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2025-04-02 08:43:19 PM +0300"}
+{"level":"error","message":"connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2025-04-02 09:32:24 PM +0300"}
+{"level":"error","message":"connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2025-04-02 09:56:26 PM +0300"}
+{"level":"error","message":"connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2025-04-02 10:13:36 PM +0300"}
+{"level":"error","message":"connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2025-04-07 06:16:57 PM +0300"}
+{"level":"error","message":"connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2025-04-07 06:18:16 PM +0300"}
+{"level":"error","message":"connection error: MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2025-04-07 06:48:08 PM +0300"}
+{"level":"error","message":"connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","timestamp":"2025-04-07 06:52:32 PM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-04-09 12:13:31 AM +0300"}
+{"level":"error","message":"this email is already exists","timestamp":"2025-04-09 01:12:05 AM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-04-09 01:41:29 AM +0300"}
+{"level":"error","message":"Error Adding User ","timestamp":"2025-04-11 12:54:00 AM +0300"}
+{"level":"error","message":"Error Adding User ","timestamp":"2025-04-11 01:00:31 AM +0300"}
+{"level":"error","message":"Error Adding User ","timestamp":"2025-04-11 01:18:15 AM +0300"}
+{"level":"error","message":"Error Adding User ","timestamp":"2025-04-11 01:19:22 AM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-04-11 01:21:50 AM +0300"}
+{"level":"error","message":"Error Getting user from db:Error: secretOrPrivateKey must have a value","timestamp":"2025-04-11 09:05:17 PM +0300"}
+{"level":"error","message":"Error Getting user from db:Error: secretOrPrivateKey must have a value","timestamp":"2025-04-11 09:09:40 PM +0300"}
+{"level":"error","message":"Error Getting user from db:Error: secretOrPrivateKey must have a value","timestamp":"2025-04-12 12:08:11 AM +0300"}
+{"kind":"ObjectId","level":"error","message":"Error updating user details Cast to ObjectId failed for value \":id\" (type string) at path \"_id\" for model \"User\"","path":"_id","reason":{},"stack":"CastError: Cast to ObjectId failed for value \":id\" (type string) at path \"_id\" for model \"User\"\n    at model.Query.exec (C:\\Users\\fadi\\Desktop\\Projects\\HFIX\\node_modules\\mongoose\\lib\\query.js:4921:21)\n    at Query.then (C:\\Users\\fadi\\Desktop\\Projects\\HFIX\\node_modules\\mongoose\\lib\\query.js:5020:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","stringValue":"\":id\"","timestamp":"2025-04-12 01:25:06 AM +0300","value":":id","valueType":"string"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-04-13 08:53:38 PM +0300"}
+{"level":"error","message":"Error Getting user from db:ReferenceError: description is not defined","timestamp":"2025-04-13 08:54:15 PM +0300"}
+{"level":"error","message":"Error Getting user from db:ReferenceError: houseNumber is not defined","timestamp":"2025-04-14 06:41:05 PM +0300"}
+{"level":"error","message":"Error Getting user from db:ReferenceError: houseNumber is not defined","timestamp":"2025-04-14 06:44:11 PM +0300"}
+{"level":"error","message":"connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","timestamp":"2025-04-19 11:37:20 PM +0300"}
+{"level":"error","message":"connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","timestamp":"2025-04-19 11:38:30 PM +0300"}
+{"level":"error","message":"Error Getting user from db:CastError: Cast to ObjectId failed for value \"getAllUsers\" (type string) at path \"_id\" for model \"User\"","timestamp":"2025-04-20 03:33:33 PM +0300"}
+{"level":"error","message":"Error Getting user from db:CastError: Cast to ObjectId failed for value \"getAllUsers\" (type string) at path \"_id\" for model \"User\"","timestamp":"2025-04-20 03:34:40 PM +0300"}
+{"level":"error","timestamp":"2025-04-23 05:13:08 PM +0300"}
+{"level":"error","timestamp":"2025-04-23 05:15:32 PM +0300"}
+{"level":"error","timestamp":"2025-04-23 05:18:18 PM +0300"}
+{"level":"error","timestamp":"2025-04-23 06:40:26 PM +0300"}
+{"level":"error","message":"Error Adding User ","timestamp":"2025-04-24 09:48:56 PM +0300"}
+{"level":"error","message":"Wrong user email please enter correct email","timestamp":"2025-04-28 03:20:21 PM +0300"}
+{"level":"error","message":"Wrong user email please enter correct email","timestamp":"2025-04-28 03:20:33 PM +0300"}

@@ -1,0 +1,79 @@
+{"level":"error","message":"Wrong user id please enter correct id","timestamp":"2025-05-17 03:37:49 PM +0300"}
+{"level":"error","message":"Error Getting user from db:Error: DB error","timestamp":"2025-05-17 03:37:49 PM +0300"}
+{"level":"error","message":"User not found with id: 1234567890abcdef12345678","timestamp":"2025-05-17 03:37:49 PM +0300"}
+{"level":"error","message":"Old password does not match for user no: 1234567890abcdef12345678","timestamp":"2025-05-17 03:37:49 PM +0300"}
+{"level":"error","message":"No matching user found to update","timestamp":"2025-05-17 03:37:49 PM +0300"}
+{"level":"error","message":"Error updating user details DB fail","stack":"Error: DB fail\n    at Object.<anonymous> (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\server\\tests\\editUserDetails.test.js:95:36)\n    at Promise.then.completed (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\utils.js:298:28)\n    at new Promise (<anonymous>)\n    at callAsyncCircusFn (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\utils.js:231:10)\n    at _callCircusTest (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\run.js:316:40)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at _runTest (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\run.js:252:3)\n    at _runTestsForDescribeBlock (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\run.js:126:9)\n    at _runTestsForDescribeBlock (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\run.js:121:9)\n    at run (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\run.js:71:3)\n    at runAndTransformResultsToJestFormat (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\legacy-code-todo-rewrite\\jestAdapterInit.js:122:21)\n    at jestAdapter (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\legacy-code-todo-rewrite\\jestAdapter.js:79:19)\n    at runTestInternal (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-runner\\build\\runTest.js:367:16)\n    at runTest (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-runner\\build\\runTest.js:444:34)\n    at Object.worker (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-runner\\build\\testWorker.js:106:12)","timestamp":"2025-05-17 03:37:49 PM +0300"}
+{"level":"error","message":"Wrong user email please enter correct email","timestamp":"2025-05-17 03:37:49 PM +0300"}
+{"level":"error","timestamp":"2025-05-17 03:37:49 PM +0300"}
+{"level":"error","message":"this email is already exists","timestamp":"2025-05-17 03:37:49 PM +0300"}
+{"level":"error","message":"this email is already exists","timestamp":"2025-05-17 03:37:49 PM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-05-17 03:37:49 PM +0300"}
+{"level":"error","message":"Error Getting user from db:Error: DB fail","timestamp":"2025-05-17 03:37:49 PM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-05-17 03:37:49 PM +0300"}
+{"level":"error","message":"Error Getting user from db:Error: DB Error","timestamp":"2025-05-17 03:37:49 PM +0300"}
+{"level":"error","message":"Error Getting user from db:Error: DB Fail","timestamp":"2025-05-17 03:37:49 PM +0300"}
+{"level":"error","message":"Error Adding User ","timestamp":"2025-05-17 03:37:49 PM +0300"}
+{"level":"error","message":"Error Adding User ","timestamp":"2025-05-17 03:37:49 PM +0300"}
+{"level":"error","message":"Wrong user id please enter correct id","timestamp":"2025-05-17 03:49:46 PM +0300"}
+{"level":"error","message":"Error Getting user from db:Error: DB error","timestamp":"2025-05-17 03:49:46 PM +0300"}
+{"level":"error","message":"User not found with id: 1234567890abcdef12345678","timestamp":"2025-05-17 03:49:46 PM +0300"}
+{"level":"error","message":"Old password does not match for user no: 1234567890abcdef12345678","timestamp":"2025-05-17 03:49:46 PM +0300"}
+{"level":"error","message":"No matching user found to update","timestamp":"2025-05-17 03:49:46 PM +0300"}
+{"level":"error","message":"Error updating user details DB fail","stack":"Error: DB fail\n    at Object.<anonymous> (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\server\\tests\\editUserDetails.test.js:95:36)\n    at Promise.then.completed (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\utils.js:298:28)\n    at new Promise (<anonymous>)\n    at callAsyncCircusFn (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\utils.js:231:10)\n    at _callCircusTest (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\run.js:316:40)\n    at processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at _runTest (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\run.js:252:3)\n    at _runTestsForDescribeBlock (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\run.js:126:9)\n    at _runTestsForDescribeBlock (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\run.js:121:9)\n    at run (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\run.js:71:3)\n    at runAndTransformResultsToJestFormat (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\legacy-code-todo-rewrite\\jestAdapterInit.js:122:21)\n    at jestAdapter (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-circus\\build\\legacy-code-todo-rewrite\\jestAdapter.js:79:19)\n    at runTestInternal (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-runner\\build\\runTest.js:367:16)\n    at runTest (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-runner\\build\\runTest.js:444:34)\n    at Object.worker (C:\\Users\\sajed\\OneDrive\\שולחן העבודה\\HouseFixTemp\\BS-PM-2025-TEAM24\\node_modules\\jest-runner\\build\\testWorker.js:106:12)","timestamp":"2025-05-17 03:49:46 PM +0300"}
+{"level":"error","message":"Wrong user email please enter correct email","timestamp":"2025-05-17 03:49:46 PM +0300"}
+{"level":"error","message":"this email is already exists","timestamp":"2025-05-17 03:49:46 PM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-05-17 03:49:46 PM +0300"}
+{"level":"error","message":"Error Getting user from db:Error: DB fail","timestamp":"2025-05-17 03:49:46 PM +0300"}
+{"level":"error","message":"this email is already exists","timestamp":"2025-05-17 03:49:46 PM +0300"}
+{"level":"error","timestamp":"2025-05-17 03:49:46 PM +0300"}
+{"level":"error","message":"Error Getting user from db:Error: DB Error","timestamp":"2025-05-17 03:49:46 PM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-05-17 03:49:46 PM +0300"}
+{"level":"error","message":"Error Adding User ","timestamp":"2025-05-17 03:49:46 PM +0300"}
+{"level":"error","message":"Error Getting user from db:Error: DB Fail","timestamp":"2025-05-17 03:49:46 PM +0300"}
+{"level":"error","message":"Error Adding User ","timestamp":"2025-05-17 03:49:46 PM +0300"}
+{"level":"error","message":"No events found for call type: NonExistingType","timestamp":"2025-06-12 08:31:44 PM +0300"}
+{"level":"error","message":"Wrong user email please enter correct email","timestamp":"2025-06-12 08:31:45 PM +0300"}
+{"level":"error","message":"Call not found: fake-id","timestamp":"2025-06-12 08:31:46 PM +0300"}
+{"level":"error","message":"Old password does not match for user no: 684b0f02fd00829639df245f","timestamp":"2025-06-12 08:31:46 PM +0300"}
+{"level":"error","message":"User not found with id: 684b0f02fd00829639df2463","timestamp":"2025-06-12 08:31:47 PM +0300"}
+{"level":"error","message":"Event not found: 684b0f031f54e8a491cf50dc","timestamp":"2025-06-12 08:31:47 PM +0300"}
+{"level":"error","message":"Wrong user email please enter correct email","timestamp":"2025-06-12 08:31:51 PM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-06-12 08:31:52 PM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-06-12 08:31:52 PM +0300"}
+{"level":"error","message":"User not found with id: 1234567890abcdef12345678","timestamp":"2025-06-12 08:31:52 PM +0300"}
+{"level":"error","message":"Wrong user id please enter correct id","timestamp":"2025-06-12 08:31:53 PM +0300"}
+{"level":"error","message":"user no:684b0f0b356f13d70e149780 does not exists","timestamp":"2025-06-12 08:31:56 PM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-06-12 08:32:04 PM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-06-12 08:32:05 PM +0300"}
+{"level":"error","message":"Wrong user id please enter correct id","timestamp":"2025-06-12 08:32:13 PM +0300"}
+{"level":"error","message":"user no:684b0f65278e29f9065bf5a4 does not exists","timestamp":"2025-06-12 08:33:25 PM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-06-12 08:33:25 PM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-06-12 08:33:26 PM +0300"}
+{"level":"error","message":"Wrong user id please enter correct id","timestamp":"2025-06-12 08:33:27 PM +0300"}
+{"level":"error","message":"Old password does not match for user no: 684b0f694f480383aa144bd8","timestamp":"2025-06-12 08:33:29 PM +0300"}
+{"level":"error","message":"User not found with id: 684b0f694f480383aa144bdc","timestamp":"2025-06-12 08:33:29 PM +0300"}
+{"level":"error","message":"Wrong user email please enter correct email","timestamp":"2025-06-12 08:33:31 PM +0300"}
+{"level":"error","message":"Event not found: 684b0f6c1028ba63292b980a","timestamp":"2025-06-12 08:33:32 PM +0300"}
+{"level":"error","message":"Call not found: fake-id","timestamp":"2025-06-12 08:33:33 PM +0300"}
+{"level":"error","message":"No events found for call type: NonExistingType","timestamp":"2025-06-12 08:33:33 PM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-06-12 08:33:34 PM +0300"}
+{"level":"error","message":"Wrong user email please enter correct email","timestamp":"2025-06-12 08:33:35 PM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-06-12 08:33:35 PM +0300"}
+{"level":"error","message":"User not found with id: 1234567890abcdef12345678","timestamp":"2025-06-12 08:33:36 PM +0300"}
+{"level":"error","message":"Wrong user id please enter correct id","timestamp":"2025-06-12 08:33:36 PM +0300"}
+{"level":"error","message":"Old password does not match for user no: 684b0fc62b070ddd1dd354c2","timestamp":"2025-06-12 08:35:02 PM +0300"}
+{"level":"error","message":"User not found with id: 684b0fc62b070ddd1dd354c6","timestamp":"2025-06-12 08:35:02 PM +0300"}
+{"level":"error","message":"Wrong user id please enter correct id","timestamp":"2025-06-12 08:35:03 PM +0300"}
+{"level":"error","message":"Wrong user email please enter correct email","timestamp":"2025-06-12 08:35:03 PM +0300"}
+{"level":"error","message":"Call not found: fake-id","timestamp":"2025-06-12 08:35:07 PM +0300"}
+{"level":"error","message":"user no:684b0fccaecbddc1e1416984 does not exists","timestamp":"2025-06-12 08:35:08 PM +0300"}
+{"level":"error","message":"No events found for call type: NonExistingType","timestamp":"2025-06-12 08:35:08 PM +0300"}
+{"level":"error","message":"Event not found: 684b0fcd40dad185853b3ab3","timestamp":"2025-06-12 08:35:09 PM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-06-12 08:35:09 PM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-06-12 08:35:10 PM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-06-12 08:35:13 PM +0300"}
+{"level":"error","message":"User not found with id: 1234567890abcdef12345678","timestamp":"2025-06-12 08:35:14 PM +0300"}
+{"level":"error","message":"Missing Parameters Please send all Parameters ","timestamp":"2025-06-12 08:35:14 PM +0300"}
+{"level":"error","message":"Wrong user email please enter correct email","timestamp":"2025-06-12 08:35:15 PM +0300"}
+{"level":"error","message":"Wrong user id please enter correct id","timestamp":"2025-06-12 08:35:16 PM +0300"}

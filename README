@@ -1,0 +1,20 @@
+Make Sure that you have the following tools are  installed:(node,js,Git) 
+
+1. git clone https://github.com/BS-PM-2025/BS-PM-2025-TEAM24.git
+
+2. in the root terminal and the my-react-app terminal and server terminal do this command (one for each terminal):    npm install
+
+3. Open a new ( .env ) file in the server folder with this token:
+
+   DB_HOST=mongodb+srv://fadikanane:fdfd1234567@cluster0.6377vck.mongodb.net/HouseFix?retryWrites=true&w=majority
+   DB_USER=fadikanane
+   DB_PASS=fdfd1234567
+   SECRET=your_super_secret_key
+   EMAIL=greenpoints218@gmail.com
+   EMAILPASSWORD=znia fmpy gdrb ewrx
+
+4. To start the server open a terminal for the root and write this command :    npm start
+
+5. To run the tests open a terminal for the root and write this command (make sure you run the server first) :    npm test
+
+6. To access the website open this link in the browser:   http://localhost:5173
