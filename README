@@ -1,6 +1,6 @@
 Make Sure that you have the following tools are  installed:(node,js,Git) 
 
-1. git clone https://github.com/BS-PM-2025/BS-PM-2025-TEAM24.git
+1. git clone https://github.com/Mohamad040/Git.git
 
 2. in the root terminal and the my-react-app terminal and server terminal do this command (one for each terminal):    npm install
 
